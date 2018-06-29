@@ -1,0 +1,29 @@
+.jumbotron{
+  background-image: url(photo5.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  background-attachment: fixed;
+}
+
+.btn-color{
+  background-color: #f6f6f6;
+  color: black;
+  border-color: grey;
+}
+
+.card-title{
+  text-align: center;
+}
+
+.card-text{
+  text-align: center;
+}
+
+.card-image{
+  width: 100px;
+  margin: 0 auto;
+  display: block;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+}

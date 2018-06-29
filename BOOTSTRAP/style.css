@@ -1,0 +1,17 @@
+.jum{
+  background-image: url(photo5.jpg);
+  color: white;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jum2{
+  background-image: url(photo4.jpg);
+  color: white;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.nav-nav{
+  text-color: white;
+}
